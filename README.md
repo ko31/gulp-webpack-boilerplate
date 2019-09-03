@@ -11,14 +11,14 @@ Simple boilerplate for using Gulp, Webpack.
 
 ### Usage
 
+This is development task. It watches and builds resource files.
+
 ```
 npm run build
 ```
 
-This is development task. It watches and builds resource files.
+This is production task. It builds resource files.
 
 ```
 npm run build:prod
 ```
-
-This is production task. It builds resource files.
